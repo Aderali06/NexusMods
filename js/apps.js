@@ -36,7 +36,7 @@ const apps = [
         description: "Alight Motion is the first professional motion design app bringing you profesional-quality animation,motion graphics,visual effects, video editing, video compositing, and more!",
         iconText: "AM",
         iconBgColor: "f97316",
-        downloadUrl: "#",
+        downloadUrl: "https://sfl.gl/yREn",
         category: "app"
     },
     {
@@ -67,6 +67,7 @@ const apps = [
         category: "app"
     }
 ];
+
 
 
 
