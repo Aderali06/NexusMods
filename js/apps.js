@@ -10,7 +10,7 @@ const apps = [
         iconText: "SP",
         iconBgColor: "10b981",
         downloadUrl: "#",
-        category: "app"
+        category: "apps"
     },
     {
         name: "YT Vanced",
@@ -67,4 +67,5 @@ const apps = [
         category: "app"
     }
 ];
+
 
