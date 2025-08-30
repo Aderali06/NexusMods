@@ -13,12 +13,12 @@ const apps = [
         category: "app"
     },
     {
-        name: "YT Vanced",
-        version: "v19.05.3",
-        description: "Watch ad-free videos, play in the background, and enjoy AMOLED dark mode.",
-        iconText: "YT",
+        name: "CapCut",
+        version: "v15.3.0",
+        description: "Professional video editor without watermarks and all premium assets unlocked.",
+        iconText: "CC",
         iconBgColor: "3b82f6",
-        downloadUrl: "#",
+        downloadUrl: "https://sfl.gl/0LOcPj3e",
         category: "app"
     },
     {
@@ -67,6 +67,7 @@ const apps = [
         category: "app"
     }
 ];
+
 
 
 
