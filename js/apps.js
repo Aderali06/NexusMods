@@ -10,7 +10,7 @@ const apps = [
         iconText: "SP",
         iconBgColor: "10b981",
         downloadUrl: "#",
-        category: "apps"
+        category: "app"
     },
     {
         name: "YT Vanced",
@@ -37,7 +37,7 @@ const apps = [
         iconText: "AM",
         iconBgColor: "f97316",
         downloadUrl: "#",
-        category: "apps"
+        category: "app"
     },
     {
         name: "Kinemaster Pro",
@@ -67,6 +67,7 @@ const apps = [
         category: "app"
     }
 ];
+
 
 
 
