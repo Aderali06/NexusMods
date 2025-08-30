@@ -31,13 +31,13 @@ const apps = [
         category: "app"
     },
     {
-        name: "Coin Master Mod",
-        version: "v3.5.100",
-        description: "Get unlimited coins and spins to build your village.",
-        iconText: "CM",
+        name: "Alight Motion",
+        version: "5.0.272",
+        description: "Alight Motion is the first professional motion design app bringing you profesional-quality animation,motion graphics,visual effects, video editing, video compositing, and more!",
+        iconText: "AM",
         iconBgColor: "f97316",
         downloadUrl: "#",
-        category: "game"
+        category: "apps"
     },
     {
         name: "Kinemaster Pro",
@@ -67,5 +67,6 @@ const apps = [
         category: "app"
     }
 ];
+
 
 
