@@ -9,7 +9,7 @@ const apps = [
         description: "Enjoy ad-free music, unlimited skips, and offline playback.",
         iconText: "SP",
         iconBgColor: "10b981", // Hex color code without '#'
-        downloadUrl: "#"
+        downloadUrl: "https://x.com/"
     },
     {
         name: "YT Vanced",
@@ -44,4 +44,5 @@ const apps = [
         downloadUrl: "#"
     }
 ];
+
 
