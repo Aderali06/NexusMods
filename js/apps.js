@@ -8,8 +8,9 @@ const apps = [
         version: "v8.9.2",
         description: "Enjoy ad-free music, unlimited skips, and offline playback.",
         iconText: "SP",
-        iconBgColor: "10b981", // Hex color code without '#'
-        downloadUrl: "https://x.com/"
+        iconBgColor: "10b981",
+        downloadUrl: "#",
+        category: "app"
     },
     {
         name: "YT Vanced",
@@ -17,7 +18,8 @@ const apps = [
         description: "Watch ad-free videos, play in the background, and enjoy AMOLED dark mode.",
         iconText: "YT",
         iconBgColor: "3b82f6",
-        downloadUrl: "#"
+        downloadUrl: "#",
+        category: "app"
     },
     {
         name: "PicsArt Gold",
@@ -25,15 +27,17 @@ const apps = [
         description: "Access all premium filters, stickers, fonts, and unlimited editing tools.",
         iconText: "PX",
         iconBgColor: "ef4444",
-        downloadUrl: "#"
+        downloadUrl: "#",
+        category: "app"
     },
     {
         name: "Coin Master Mod",
         version: "v3.5.100",
         description: "Get unlimited coins and spins to build your village.",
-        iconText: "CC",
+        iconText: "CM",
         iconBgColor: "f97316",
-        downloadUrl: "#"
+        downloadUrl: "#",
+        category: "game"
     },
     {
         name: "Kinemaster Pro",
@@ -41,8 +45,26 @@ const apps = [
         description: "Professional video editor without watermarks and all premium assets unlocked.",
         iconText: "KM",
         iconBgColor: "8b5cf6",
-        downloadUrl: "#"
+        downloadUrl: "#",
+        category: "app"
+    },
+    {
+        name: "Clash of Clans Mod",
+        version: "v15.83.2",
+        description: "Unlimited gems, gold, and elixir for the ultimate strategy game experience.",
+        iconText: "CoC",
+        iconBgColor: "f59e0b",
+        downloadUrl: "#",
+        category: "game"
+    },
+    {
+        name: "Netflix Premium",
+        version: "v8.100.0",
+        description: "Watch unlimited movies & TV shows with this unlocked premium version.",
+        iconText: "NF",
+        iconBgColor: "dc2626",
+        downloadUrl: "#",
+        category: "app"
     }
 ];
-
 
